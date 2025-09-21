@@ -1,0 +1,121 @@
+Beginner (Basics, Variables, Operators, Input/Output)
+
+    1. Write a program to print Hello, World.
+
+    2. Take user input (name & age) and print a greeting.
+
+    3. Swap two numbers without using a third variable.
+
+    4. Check if a number is even or odd.
+
+    5. Find the largest of three numbers.
+
+    6. Convert temperature from Celsius to Fahrenheit.
+
+    7. Calculate simple interest & compound interest.
+
+🟡 Control Flow (if-else, switch, loops)
+
+    8. Check if a number is prime.
+
+    9. Print the multiplication table of a number.
+
+    10. Find factorial of a number (using loop).
+
+    11. Print Fibonacci series up to n.
+
+    12. Check if a year is leap year.
+
+    13. Reverse a number.
+
+    14. Check if a number is a palindrome (e.g., 121).
+
+    15. Make a calculator using switch.
+
+🔵 Arrays & Strings
+
+    16. Find the largest and smallest element in an array.
+
+    17. Sort an array in ascending order.
+
+    18. Search an element in an array (linear & binary search).
+
+    19. Reverse an array.
+
+    20. Find sum & average of elements in an array.
+
+    21. Check if two strings are anagrams.
+
+    22. Count vowels & consonants in a string.
+
+    23. Check if a string is a palindrome.
+
+    24. Remove duplicate characters from a string.
+
+🟣 Methods & Recursion
+
+    25. Write a method to find factorial (recursion).
+
+    26. Write a recursive method for Fibonacci series.
+
+    27. Find GCD (HCF) of two numbers using recursion.
+
+    28. Write a method that checks if a number is Armstrong.
+
+    29. Method overloading: create a method add() for 2, 3, and 4 numbers.
+
+🔶 Object-Oriented Programming (OOP)
+
+    30. Create a Student class with fields name, rollNo, and marks. Print details.
+
+    31. Demonstrate inheritance: Person → Student → GraduateStudent.
+
+    32. Demonstrate method overriding with Animal → Dog → Cat.
+
+    33. Create an abstract class Shape with method area(). Extend with Circle & Rectangle.
+
+    34. Create an interface Vehicle with start() and stop(). Implement in Car and Bike.
+
+    35. Create a BankAccount class with deposit, withdraw, and checkBalance methods.
+
+🔻 Exception Handling
+
+    36. Divide two numbers with exception handling for divide-by-zero.
+
+    37. Handle ArrayIndexOutOfBoundsException.
+
+    38. Create a custom exception for invalid age (e.g., age < 18).
+
+🟤 File Handling
+
+    39. Write a program to read contents of a text file.
+
+    40. Write a program to count words in a file.
+
+    41. Write a program to copy contents from one file to another.
+
+    42. Append text into an existing file.
+
+⚫ Collections Framework
+
+    43. Store 5 student names in an ArrayList and print them.
+
+    44. Use a HashMap to store student rollNo → name mapping.
+
+    45. Use a HashSet to store unique numbers.
+
+    46. Implement a stack using Stack class.
+
+    47. Implement a queue using LinkedList.
+
+    48. Sort elements in an ArrayList.
+
+🔺 Advanced (Optional, if you go deeper)
+
+    49. Create a multithreading program: one thread prints even numbers, another prints odd.
+
+    50. Demonstrate use of synchronized in a banking transaction simulation.
+
+    51. Connect Java to a database (JDBC) and insert some records.
+
+    52. Build a mini-project: Library Management System (with classes, collections, file handling).

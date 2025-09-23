@@ -1,3 +1,4 @@
+package Basics;
 import java.util.Scanner;
 
 public class CovertTempCel2Fah {
@@ -7,11 +8,11 @@ public class CovertTempCel2Fah {
         System.out.print("Enter temprature in Celsius:  ");
         double celsius = sc.nextDouble();
 
-        // Conversion formula: F = (C × 9/5) + 32
+        // Conversion formula: F = (C ? 9/5) + 32
         double fahrenheit = (celsius * 9 / 5) + 32;
 
         // Printing result
-        System.out.println(celsius + "°C = " + fahrenheit + "°F");
+        System.out.println(celsius + "?C = " + fahrenheit + "?F");
 
 
     }

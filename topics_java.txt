@@ -58,9 +58,9 @@ Beginner (Basics, Variables, Operators, Input/Output)
 
     26. Write a recursive method for Fibonacci series.
 
-    27. Find GCD (HCF) of two numbers using recursion.
+    27. ------ Find GCD (HCF) of two numbers using recursion.
 
-    28. Write a method that checks if a number is Armstrong.
+    28. ------ Write a method that checks if a number is Armstrong.
 
     29. Method overloading: create a method add() for 2, 3, and 4 numbers.
 
